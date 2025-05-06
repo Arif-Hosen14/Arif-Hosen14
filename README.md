@@ -21,7 +21,6 @@ I am passionate about leveraging data to solve real-world problems. With hands-o
 - Data storytelling & dashboard design
 - Academic & technical research writing
 
-
 ## 📚 My Recent Research
 
 - 📄 *Automation of Healthcare Management Systems in the US* – Published in **Journal of Posthumanism**
